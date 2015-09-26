@@ -393,7 +393,7 @@ section.success a.active {
 }
 
 .floating-label-form-group::not(:first-child) {
-    padding-left: 10px;
+    padding-left: 20px;
     border-left: 1px solid #eee;
 }
 

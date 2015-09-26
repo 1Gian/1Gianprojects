@@ -180,6 +180,7 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",sans-serif;
     font-size: 2em;
     font-weight: 700;
+    margin-top: -200px;
 }
 
 header .intro-text .skills {
@@ -338,7 +339,7 @@ section.success a.active {
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
-    font-size: 20px;
+    font-size: 10px;
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
@@ -368,7 +369,7 @@ section.success a.active {
     padding-left: 0;
     border: 0;
     border-radius: 0;
-    font-size: 1.5em;
+    font-size: 1 bem;
     background: 0 0;
     box-shadow: none!important;
     resize: none;
@@ -392,7 +393,7 @@ section.success a.active {
 }
 
 .floating-label-form-group::not(:first-child) {
-    padding-left: 14px;
+    padding-left: 10px;
     border-left: 1px solid #eee;
 }
 
@@ -542,6 +543,6 @@ footer .footer-below {
 	-moz-border-radius: 150px;
 	float: left;
 	padding-top: 50px;
-	margin-top: -100px;
+	margin-top: -200px;
 	
 }

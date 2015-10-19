@@ -1,2 +1,2 @@
-# 2Gianprojects
-About me
+# 1Gianprojects
+journal
